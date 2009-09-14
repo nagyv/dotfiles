@@ -1,0 +1,1 @@
+/home/nagyv/versioning/git/vim_xmledit/xml.vim
